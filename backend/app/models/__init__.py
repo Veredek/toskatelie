@@ -1,1 +1,1 @@
-from user import User, Customer, Artist
+from .user import User, Customer, Artist
